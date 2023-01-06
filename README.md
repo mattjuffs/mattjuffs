@@ -8,6 +8,6 @@ Senior Software Architect @ Heritage Digital, Husband to Leanne, Daddy to 6 girl
 
 💾 Operating Systems: Windows, Android
 
-✨ Interests: Programming (obviously), Electronics (Microcontrollers, Arduino, …), 3D Printing, Cycling 🚲🌳
+✨ Interests: Development, Web, Films/Series, Family, Outdoors🌳
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mattjuffs&count_private=false&show_icons=true)
