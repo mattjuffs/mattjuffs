@@ -4,7 +4,7 @@ Chief Software Architect @ Heritage Digital, Husband to Leanne, Daddy to 6 girls
 
 ⚡ Languages: C#, SQL, HTML, CSS, JavaScript
 
-🚀 Technologies: Git, IIS, SQL Server, MS Server, TrueNAS
+🚀 Technologies: Git, IIS, SQL Server, MS Server, VMware, TrueNAS, Proxmox, OPNsense
 
 💾 Operating Systems: Windows, Android
 
