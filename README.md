@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Chief Software Architect @ Heritage Digital, Husband to Leanne, Daddy to 6 girls.
+Technical Lead @ Microlise, Husband to Leanne, Daddy to 6 girls.
 
 ⚡ Languages: C#, SQL, HTML, CSS, JavaScript
 
