@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technical Lead @ Microlise, Husband to Leanne, Daddy to 6 girls.
+Technical Lead @ Microlise, Dad of 6 girls.
 
 ⚡ Languages: C#, SQL, HTML, CSS, JavaScript
 
