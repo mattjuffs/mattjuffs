@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technical Lead @ Microlise, Dad of 6 girls.
+Technical Lead @ Microlise.
 
 ⚡ Languages: C#, SQL, HTML, CSS, JavaScript
 
